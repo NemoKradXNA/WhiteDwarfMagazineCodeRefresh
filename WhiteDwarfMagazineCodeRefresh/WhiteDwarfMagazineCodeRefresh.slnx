@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WhiteDwarf.Utilities/WhiteDwarf.Utilities.csproj" />
+  <Project Path="WhiteDwarf36.Sector/WhiteDwarf36.Sector.csproj" />
+</Solution>
